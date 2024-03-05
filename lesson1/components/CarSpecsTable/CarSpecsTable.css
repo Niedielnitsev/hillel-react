@@ -1,0 +1,28 @@
+table {
+  width: 50%;
+  border-collapse: collapse;
+  border: 1px solid #000 !important;
+}
+
+tr {
+  height: 50px;
+  border: 1px solid #000;
+  background-color: #f9f9f9;
+  text-align: justify;
+}
+
+.cell__model {
+  border: 1px solid #000;
+  background-color: #d63865;
+  color: #fff;
+  text-align: center;
+}
+
+.row__brand {
+    text-align: center;
+    height: 50px;
+    border: 1px solid #000;
+    background-color: #4350af;
+    color: #fff;
+    font-weight: bold;
+}
